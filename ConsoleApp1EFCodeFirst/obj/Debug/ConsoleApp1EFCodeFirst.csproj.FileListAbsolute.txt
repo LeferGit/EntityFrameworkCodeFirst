@@ -1,0 +1,14 @@
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\bin\Debug\ConsoleApp1EFCodeFirst.exe.config
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\bin\Debug\ConsoleApp1EFCodeFirst.exe
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\bin\Debug\ConsoleApp1EFCodeFirst.pdb
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\obj\Debug\ConsoleApp1EFCodeFirst.csprojAssemblyReference.cache
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\obj\Debug\ConsoleApp1EFCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\obj\Debug\ConsoleApp1EFCodeFirst.csproj.CopyComplete
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\obj\Debug\ConsoleApp1EFCodeFirst.exe
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\obj\Debug\ConsoleApp1EFCodeFirst.pdb
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\obj\Debug\ConsoleApp1EFCodeFirst.Migrations.InitialCreate.resources
+C:\Users\ariel\source\repos\ConsoleApp1EFCodeFirst\ConsoleApp1EFCodeFirst\obj\Debug\ConsoleApp1EFCodeFirst.csproj.GenerateResource.cache
